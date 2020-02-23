@@ -1,5 +1,5 @@
 .container{
-    margin-bottom: 100px;
+    margin-bottom: 30px;
 }
 .orange-bg{
     background: #FEEAE9;
@@ -25,6 +25,7 @@
 .cat1, .cat2, .cat3{
     padding: 10px 30px;
     border-radius: 15px;
+    margin-bottom: 10px;
 }
 .cat1{
     background-image: linear-gradient(45deg, #2c2813, #FFA500);
@@ -70,4 +71,7 @@
 }
 #subscribe h6{
     color: gray;
+}
+#subscribe .buy-now-button{
+    margin-top: 10px;
 }
